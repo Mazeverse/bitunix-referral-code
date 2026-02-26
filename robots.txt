@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bitunix-referral-code.vercel.app/sitemap.xml
